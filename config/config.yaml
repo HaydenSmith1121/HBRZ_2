@@ -1,0 +1,10 @@
+chrome_path: 'D:\tools\chrome-win64\chrome-win64\chrome.exe'
+chromedriver_path: '\tools\chromedriver-win64\chromedriver-win64\chromedriver.exe'
+edgedriver_path: 'D:\tools\edgedriver_win64'
+est_url: "http://192.168.1.25/index"
+password:
+  p1: "HYZdevadmin1234"
+  p2: "mhMH12@@"
+username:
+  袁苏苏: "00245064"
+  刘中振: "00210045"
